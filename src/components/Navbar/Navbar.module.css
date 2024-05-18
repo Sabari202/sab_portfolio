@@ -9,9 +9,14 @@
   z-index: 2;
   margin: 0 10%;
 }
-
+.contact{
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-text);
+}
 .title {
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);

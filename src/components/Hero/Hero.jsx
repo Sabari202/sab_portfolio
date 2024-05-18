@@ -11,7 +11,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Sabareeswar Senthilvel</h1>
         
         <p className={styles.description}>
-          Graduate student at ASU with 2 years of experience looking for full time opportunities in Software Engineering.
+          Recent Graduate from Arizona State University looking for full time opportunities in Software Engineering.
         </p>
         
       </div>

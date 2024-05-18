@@ -8,8 +8,8 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a href="https://drive.google.com/file/d/1oLZuTwdIs2FCLRt4F2jxUSLNZDxFtWVu/view?usp=sharing" className={styles.title}>
-          Resume
+      <a className={styles.contact}>
+          Contact: +1 (602) 582-8334
         </a>
       <div className={styles.menu}>
         <img
