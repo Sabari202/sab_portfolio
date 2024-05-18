@@ -1,0 +1,19 @@
+[
+  {
+    "title": "COVID-19 Data Visualization Dashboard",
+    "imageSrc": "cv19.jpeg",
+    "description": "A user-focused dashboard with advanced filters for visualising covid 19 data for global health organizations.",
+    "skills": ["Javascript", "React", "D3.js"]
+  },
+  {
+    "title": "Img processing & computing of the MNIST Dataset",
+    "imageSrc": "mnist.webp",
+    "description": "A ML model for handwritten digit classification on MNIST with 98% accuracy",
+    "skills": [ "Flask", "React-Native"]},
+  {
+    "title": "Deep Vision: Advanced Image Recognition",
+    "imageSrc": "imgrec.jpeg",
+    "description": "A Deep learning image recognition model.",
+    "skills": ["Tensor-Flow", "Pytorch"]
+  }
+]

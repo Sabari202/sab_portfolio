@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Data Engineer",
+    "organisation": "Arizona State Univerity",
+    "startDate": "Jan, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": ["Developed Python modules to automate data processing workflows to reduce processing time from 50ms to 10ms.",
+     "Created dashboards using grafana",
+     "Designed and Implemented CI/CD workflows using GitHub Actions integrated with AWS CodeBuild and AWS Code Deploy.",
+     "Enhanced database schemas and optimized SQL queries in AWS RDS PostgreSQL supporting transaction volumes exceeding 80K per day with zero downtime."],
+    "imageSrc": "asu-2.svg"
+  }
+]
